@@ -271,6 +271,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 97H56TQ95G;
 				INFOPLIST_FILE = SelfieCam/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DrewFitzpatrick.SelfieCam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +286,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 97H56TQ95G;
 				INFOPLIST_FILE = SelfieCam/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DrewFitzpatrick.SelfieCam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -312,6 +314,7 @@
 				3AB81B481F043CF4009CBB06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
